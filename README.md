@@ -12,3 +12,8 @@ In this workshop The attendees of this three-day workshop will learn about three
 > Sparse regression-based
 
 algorithms. Each session will begin with a discussion of the theoretical background material before moving into a hands-on section (a laptop with internet connectivity is sufficient to run Colab notebooks that will be provided), during which we hope to run each algorithm and discuss some of the computing benefits and drawbacks of each technique.
+
+## Videos
+* [Day 1](https://drive.google.com/file/d/1LPR9LYHVoQNjkOl0cXY0EUOyLwC1xg0h/view?usp=sharing)
+* Day 2
+* Day 3
