@@ -15,5 +15,5 @@ algorithms. Each session will begin with a discussion of the theoretical backgro
 
 ## Videos
 * [Day 1](https://drive.google.com/file/d/1LPR9LYHVoQNjkOl0cXY0EUOyLwC1xg0h/view?usp=sharing)
-* Day 2
+* [Day 2](https://drive.google.com/file/d/1WWe-bWqVSBkluQpvyVZyuypv8tlfhwo0/view?usp=sharing)
 * Day 3
